@@ -1,0 +1,46 @@
+{
+  "name": "2048",
+  "version": "1.0.5",
+  "description": "mongodb cache: use redis cache in nodejs and mongodb",
+
+
+  "main": "js/application.js",
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/saigit1/2048.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose cache",
+    "mongodb cache",
+    "mongoose redis",
+    "mongoose",
+    "redis mongoose",
+    "redis mongodb",
+    "redis mongo",
+    "redis",
+    "cache",
+    "cached",
+    "caching",
+    "performance",
+    "mongodb cache",
+    "mongodb",
+    "redis cache",
+    "mongo cache",
+    "node cache",
+    "nosql"
+  ],
+  "author": "Sai",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mix-hash": "^1.0.5",
+    "mongodb": "^3.5.9",
+    "mongoose": "^5.9.19",
+    "mongoose-redis": "^1.1.1",
+    "redis": "^3.0.2"
+  }
+}
